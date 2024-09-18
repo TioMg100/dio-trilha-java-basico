@@ -1,0 +1,12 @@
+1 - Adicinar dados e garantir sua integridade;
+2 - Poder editar, alterar e apagar dados;
+3 - O valor retirado não pode ser maior do que se tem em caixa;
+4 - Toal;
+5 - Salvar os dados no banco;
+6 - interface grafica;
+
+
+banco
+
+tabela "Despesas" ( id,Nome,data,valor);
+tabela "Total"(id,total,data);
