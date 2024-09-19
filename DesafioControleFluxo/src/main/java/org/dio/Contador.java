@@ -23,6 +23,7 @@ public class Contador {
         }
 
 
+
     }
 
     static void contar(int parametroUm, int parametroDois)   {
