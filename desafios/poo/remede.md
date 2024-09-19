@@ -6,6 +6,8 @@
 3. **Navegador na Internet**
    - Métodos: `exibirPagina(String url)`, `adicionarNovaAba()`, `atualizarPagina()`
 
+
+```mermaid
 classDiagram
     class ReprodutorMusical {
      -nome: String
@@ -39,3 +41,4 @@ classDiagram
     iPhone --> ReprodutorMusical
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
+```
